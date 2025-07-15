@@ -1,4 +1,5 @@
 # learngit-demo
+
 This is my first git repository.
 <br>
-Auther - Vikas Kumar
+Auther - Vikas Kumar (nema)
